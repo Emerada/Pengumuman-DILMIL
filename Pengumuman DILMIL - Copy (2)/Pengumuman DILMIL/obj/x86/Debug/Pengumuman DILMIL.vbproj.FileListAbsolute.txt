@@ -1,0 +1,35 @@
+c:\users\z\documents\visual studio 2010\Projects\Pengumuman DILMIL\Pengumuman DILMIL\bin\Debug\Pengumuman DILMIL.exe
+c:\users\z\documents\visual studio 2010\Projects\Pengumuman DILMIL\Pengumuman DILMIL\bin\Debug\Pengumuman DILMIL.pdb
+c:\users\z\documents\visual studio 2010\Projects\Pengumuman DILMIL\Pengumuman DILMIL\bin\Debug\Pengumuman DILMIL.xml
+c:\users\z\documents\visual studio 2010\Projects\Pengumuman DILMIL\Pengumuman DILMIL\bin\Debug\Interop.WMPLib.dll
+c:\users\z\documents\visual studio 2010\Projects\Pengumuman DILMIL\Pengumuman DILMIL\bin\Debug\AxInterop.WMPLib.dll
+c:\users\z\documents\visual studio 2010\Projects\Pengumuman DILMIL\Pengumuman DILMIL\obj\x86\Debug\Interop.WMPLib.dll
+c:\users\z\documents\visual studio 2010\Projects\Pengumuman DILMIL\Pengumuman DILMIL\obj\x86\Debug\AxInterop.WMPLib.dll
+c:\users\z\documents\visual studio 2010\Projects\Pengumuman DILMIL\Pengumuman DILMIL\obj\x86\Debug\Pengumuman DILMIL.vbproj.ResolveComReference.cache
+c:\users\z\documents\visual studio 2010\Projects\Pengumuman DILMIL\Pengumuman DILMIL\obj\x86\Debug\Pengumuman_DILMIL.Form1.resources
+c:\users\z\documents\visual studio 2010\Projects\Pengumuman DILMIL\Pengumuman DILMIL\obj\x86\Debug\Pengumuman_DILMIL.Resources.resources
+c:\users\z\documents\visual studio 2010\Projects\Pengumuman DILMIL\Pengumuman DILMIL\obj\x86\Debug\Pengumuman DILMIL.vbproj.GenerateResource.Cache
+c:\users\z\documents\visual studio 2010\Projects\Pengumuman DILMIL\Pengumuman DILMIL\obj\x86\Debug\Pengumuman DILMIL.exe
+c:\users\z\documents\visual studio 2010\Projects\Pengumuman DILMIL\Pengumuman DILMIL\obj\x86\Debug\Pengumuman DILMIL.xml
+c:\users\z\documents\visual studio 2010\Projects\Pengumuman DILMIL\Pengumuman DILMIL\obj\x86\Debug\Pengumuman DILMIL.pdb
+C:\Users\Z\documents\visual studio 2010\Projects\Pengumuman DILMIL\Pengumuman DILMIL\bin\Debug\Pengumuman DILMIL.exe.config
+C:\Users\Z\Documents\Visual Studio 2010\Projects\Pengumuman DILMIL - Copy (2)\Pengumuman DILMIL\bin\Debug\Pengumuman DILMIL.exe.config
+C:\Users\Z\Documents\Visual Studio 2010\Projects\Pengumuman DILMIL - Copy (2)\Pengumuman DILMIL\bin\Debug\Pengumuman DILMIL.exe.manifest
+C:\Users\Z\Documents\Visual Studio 2010\Projects\Pengumuman DILMIL - Copy (2)\Pengumuman DILMIL\bin\Debug\Pengumuman DILMIL.application
+C:\Users\Z\Documents\Visual Studio 2010\Projects\Pengumuman DILMIL - Copy (2)\Pengumuman DILMIL\bin\Debug\Pengumuman DILMIL.exe
+C:\Users\Z\Documents\Visual Studio 2010\Projects\Pengumuman DILMIL - Copy (2)\Pengumuman DILMIL\bin\Debug\Pengumuman DILMIL.pdb
+C:\Users\Z\Documents\Visual Studio 2010\Projects\Pengumuman DILMIL - Copy (2)\Pengumuman DILMIL\bin\Debug\Pengumuman DILMIL.xml
+C:\Users\Z\Documents\Visual Studio 2010\Projects\Pengumuman DILMIL - Copy (2)\Pengumuman DILMIL\bin\Debug\Interop.WMPLib.dll
+C:\Users\Z\Documents\Visual Studio 2010\Projects\Pengumuman DILMIL - Copy (2)\Pengumuman DILMIL\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Z\Documents\Visual Studio 2010\Projects\Pengumuman DILMIL - Copy (2)\Pengumuman DILMIL\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Z\Documents\Visual Studio 2010\Projects\Pengumuman DILMIL - Copy (2)\Pengumuman DILMIL\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Z\Documents\Visual Studio 2010\Projects\Pengumuman DILMIL - Copy (2)\Pengumuman DILMIL\obj\x86\Debug\Pengumuman DILMIL.vbproj.ResolveComReference.cache
+C:\Users\Z\Documents\Visual Studio 2010\Projects\Pengumuman DILMIL - Copy (2)\Pengumuman DILMIL\obj\x86\Debug\Pengumuman_DILMIL.Form1.resources
+C:\Users\Z\Documents\Visual Studio 2010\Projects\Pengumuman DILMIL - Copy (2)\Pengumuman DILMIL\obj\x86\Debug\Pengumuman_DILMIL.fMenu.resources
+C:\Users\Z\Documents\Visual Studio 2010\Projects\Pengumuman DILMIL - Copy (2)\Pengumuman DILMIL\obj\x86\Debug\Pengumuman_DILMIL.Resources.resources
+C:\Users\Z\Documents\Visual Studio 2010\Projects\Pengumuman DILMIL - Copy (2)\Pengumuman DILMIL\obj\x86\Debug\Pengumuman DILMIL.vbproj.GenerateResource.Cache
+C:\Users\Z\Documents\Visual Studio 2010\Projects\Pengumuman DILMIL - Copy (2)\Pengumuman DILMIL\obj\x86\Debug\Pengumuman DILMIL.exe.manifest
+C:\Users\Z\Documents\Visual Studio 2010\Projects\Pengumuman DILMIL - Copy (2)\Pengumuman DILMIL\obj\x86\Debug\Pengumuman DILMIL.application
+C:\Users\Z\Documents\Visual Studio 2010\Projects\Pengumuman DILMIL - Copy (2)\Pengumuman DILMIL\obj\x86\Debug\Pengumuman DILMIL.exe
+C:\Users\Z\Documents\Visual Studio 2010\Projects\Pengumuman DILMIL - Copy (2)\Pengumuman DILMIL\obj\x86\Debug\Pengumuman DILMIL.xml
+C:\Users\Z\Documents\Visual Studio 2010\Projects\Pengumuman DILMIL - Copy (2)\Pengumuman DILMIL\obj\x86\Debug\Pengumuman DILMIL.pdb
